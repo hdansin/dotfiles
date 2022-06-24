@@ -10,4 +10,4 @@ My dotfiles. Includes colors and themes for the Middle Lake rice.
 ## ALE
 
 
-Install language tool from the website, then create a wrapper per ALE wiki. Other tools (write-good, proselint) installed with python. Prettier installed with npm.
+Install language tool from the [website](https://languagetool.org/download/), then create a wrapper per ALE wiki. Other tools (write-good, proselint) installed with python. Prettier installed with npm.
