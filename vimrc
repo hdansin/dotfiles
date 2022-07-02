@@ -58,9 +58,9 @@ set incsearch " search as characters are entered
 set hlsearch " highlight matches
 nnoremap <leader><space> :nohlsearch<CR>
 
-" LT Shortcuts \ + n or N to jump to errors
-nnoremap <leader>n :lne<CR>
-nnoremap <leader>N :lp<CR>
+" ALE edit Shortcuts \ + n or N to jump to errors
+nnoremap <leader>n :ALENext<CR>
+nnoremap <leader>N :ALEPrevious<CR>
 
 
 " ALE
