@@ -20,6 +20,10 @@ call plug#end()
 set nocompatible
 filetype plugin indent on
 
+" Set backup directory
+set backupdir=~/.vim/backup
+set directory=~/.vim/tmp
+
 " Colors
 syntax enable
 
